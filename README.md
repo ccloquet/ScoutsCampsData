@@ -1,7 +1,7 @@
 # scouts_camps_data
 Harmonization of the data of the youth camps, so that the emergency services can arrive quicker on scene.
 
-The purpose of this repository is only to share my knowledge of the problem, as I am completely external to the issue and therefore do not have a proper understanding. Poppy does not subsitutes itself to existing people & projects, but can bring the missing link if needed: user-centered design, analysis, development, expertise for notifications, ... 
+The purpose of this repository is to share my knowledge of the problem, as I am completely external to the issue and therefore do not have a proper understanding of all the stakes. Poppy does not subsitutes itself to existing people & projects, but can bring the missing link if needed: user-centered design, analysis, development, expertise for notifications, ... 
 
 **Situation rêvée**
 
