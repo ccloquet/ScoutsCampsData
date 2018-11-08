@@ -3,6 +3,8 @@ Harmonization of the data of the youth camps, so that the emergency services can
 
 The purpose of this repository is to share my knowledge of the problem, as I am completely external to the issue and therefore do not have a proper understanding of all the stakes. Poppy does not subsitutes itself to existing people & projects, but can bring the missing link if needed: user-centered design, analysis, development, expertise for notifications, ... 
 
+>> This is a stone to break <<
+
 **Situation rêvée**
 
 - Janvier 2020, la chef de la 31ème unité de Lessines encode les informations sur le camp qu’elle organise en juillet à Habay. Le service communal est automatiquement avisé par e-mail. Celui-ci consulte les données des camps de sa commune et peut interagir avec les unités (demandes de précisions), approuver ou refuser la demande.
